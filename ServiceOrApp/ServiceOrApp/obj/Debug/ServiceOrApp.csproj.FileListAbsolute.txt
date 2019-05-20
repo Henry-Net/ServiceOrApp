@@ -1,0 +1,14 @@
+F:\Henry\ASP.Net.Core\ServiceOrApp\ServiceOrApp\bin\Debug\ServiceOrApp.exe.config
+F:\Henry\ASP.Net.Core\ServiceOrApp\ServiceOrApp\bin\Debug\ServiceOrApp.exe
+F:\Henry\ASP.Net.Core\ServiceOrApp\ServiceOrApp\bin\Debug\ServiceOrApp.pdb
+F:\Henry\ASP.Net.Core\ServiceOrApp\ServiceOrApp\obj\Debug\ServiceOrApp.csprojAssemblyReference.cache
+F:\Henry\ASP.Net.Core\ServiceOrApp\ServiceOrApp\obj\Debug\ServiceOrApp.csproj.CoreCompileInputs.cache
+F:\Henry\ASP.Net.Core\ServiceOrApp\ServiceOrApp\obj\Debug\ServiceOrApp.exe
+F:\Henry\ASP.Net.Core\ServiceOrApp\ServiceOrApp\obj\Debug\ServiceOrApp.pdb
+F:\Henry\ServiceOrApp\ServiceOrApp\ServiceOrApp\ServiceOrApp\bin\Debug\ServiceOrApp.exe.config
+F:\Henry\ServiceOrApp\ServiceOrApp\ServiceOrApp\ServiceOrApp\obj\Debug\ServiceOrApp.exe
+F:\Henry\ServiceOrApp\ServiceOrApp\ServiceOrApp\ServiceOrApp\obj\Debug\ServiceOrApp.pdb
+F:\Henry\ServiceOrApp\ServiceOrApp\ServiceOrApp\ServiceOrApp\bin\Debug\ServiceOrApp.exe
+F:\Henry\ServiceOrApp\ServiceOrApp\ServiceOrApp\ServiceOrApp\bin\Debug\ServiceOrApp.pdb
+F:\Henry\ServiceOrApp\ServiceOrApp\ServiceOrApp\ServiceOrApp\obj\Debug\ServiceOrApp.csprojAssemblyReference.cache
+F:\Henry\ServiceOrApp\ServiceOrApp\ServiceOrApp\ServiceOrApp\obj\Debug\ServiceOrApp.csproj.CoreCompileInputs.cache
